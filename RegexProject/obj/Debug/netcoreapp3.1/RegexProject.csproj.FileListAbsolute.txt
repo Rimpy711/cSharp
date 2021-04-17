@@ -1,0 +1,12 @@
+C:\Users\rimpy\source\repos\cSharp\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.exe
+C:\Users\rimpy\source\repos\cSharp\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.deps.json
+C:\Users\rimpy\source\repos\cSharp\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.runtimeconfig.json
+C:\Users\rimpy\source\repos\cSharp\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.runtimeconfig.dev.json
+C:\Users\rimpy\source\repos\cSharp\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.dll
+C:\Users\rimpy\source\repos\cSharp\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.pdb
+C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.AssemblyInfoInputs.cache
+C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.AssemblyInfo.cs
+C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.csproj.CoreCompileInputs.cache
+C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.dll
+C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.pdb
+C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.genruntimeconfig.cache
