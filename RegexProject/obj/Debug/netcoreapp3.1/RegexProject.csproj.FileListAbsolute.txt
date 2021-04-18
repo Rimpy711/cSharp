@@ -10,3 +10,4 @@ C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexPro
 C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.dll
 C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.pdb
 C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.genruntimeconfig.cache
+C:\Users\rimpy\source\repos\cSharp\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.csprojAssemblyReference.cache
