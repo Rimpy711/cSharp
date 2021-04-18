@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\rimpy\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\rimpy\\.nuget\\packages"
-    ]
-  }
-}
