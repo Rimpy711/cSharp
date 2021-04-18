@@ -1,4 +1,0 @@
-C:\Users\rimpy\source\repos\cSharp\Shapes_-List\obj\Debug\netcoreapp3.1\Shapes-List.csprojAssemblyReference.cache
-C:\Users\rimpy\source\repos\cSharp\Shapes_-List\obj\Debug\netcoreapp3.1\Shapes-List.AssemblyInfoInputs.cache
-C:\Users\rimpy\source\repos\cSharp\Shapes_-List\obj\Debug\netcoreapp3.1\Shapes-List.AssemblyInfo.cs
-C:\Users\rimpy\source\repos\cSharp\Shapes_-List\obj\Debug\netcoreapp3.1\Shapes-List.csproj.CoreCompileInputs.cache
