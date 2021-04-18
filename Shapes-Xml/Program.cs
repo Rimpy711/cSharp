@@ -4,6 +4,7 @@ using System.IO;
 using System.Text;
 using System.Xml.Serialization;
 using Shapes_List;
+using Helper;
 
 namespace Shapes_Xml
 {
@@ -22,9 +23,9 @@ namespace Shapes_Xml
                 new Rectangle { Color = "Blue", Height = 45.0, Width = 18.0 }
             };
 
-            ToXml(ListOfShapes, "abc.xml");
+            Serializer.ToXml(ListOfShapes, "abc.xml");
 
-            List<Shape> loadedShapesXml = FromXml<List<Shape>>("listOfShapes.xml");
+            List<Shape> loadedShapesXml = Deserializer.FromXml<List<Shape>>("listOfShapes.xml");
 
             Console.WriteLine("Loading shapes from XML:\n");
 
@@ -35,25 +36,7 @@ namespace Shapes_Xml
 
             Console.WriteLine("\nHave a nice day!");
         }
-        public static void ToXml<T>(T obj, string path)
-        {
-            using (StringWriter sw = new StringWriter(new StringBuilder()))
-            {
-                XmlSerializer xmlSerializer = new XmlSerializer(typeof(T));
-                xmlSerializer.Serialize(sw, obj);
-                File.WriteAllText(path, sw.ToString());
-            }
-        }
-
-        public static T FromXml<T>(string path)
-        {
-            string xmlString = File.ReadAllText(path);
-            using (StringReader sr = new StringReader(xmlString))
-            {
-                XmlSerializer xmlSerializer = new XmlSerializer(typeof(T));
-                return (T)xmlSerializer.Deserialize(sr);
-            }
-        }
+       
 
    }
 }

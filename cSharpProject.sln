@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegexProject", "RegexProjec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersToWords", "NumbersToWords\NumbersToWords.csproj", "{82105D83-88BC-43AF-AEA0-C6E480F4D472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes-List", "Shapes-List\Shapes-List.csproj", "{9874E738-02A8-4863-9760-E6581E5F1EBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes-List", "Shapes-List\Shapes-List.csproj", "{9874E738-02A8-4863-9760-E6581E5F1EBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes-Xml", "Shapes-Xml\Shapes-Xml.csproj", "{87ED5B62-F2D6-46C0-99FB-7B958202CE01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes-Xml", "Shapes-Xml\Shapes-Xml.csproj", "{87ED5B62-F2D6-46C0-99FB-7B958202CE01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreditCardEncryption", "CreditCardEncryption\CreditCardEncryption.csproj", "{9A4C3BC2-704C-4000-9845-59FADFFB7582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{47FA2895-A6FC-41C8-9C15-0A90E1EFDCCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{87ED5B62-F2D6-46C0-99FB-7B958202CE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87ED5B62-F2D6-46C0-99FB-7B958202CE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87ED5B62-F2D6-46C0-99FB-7B958202CE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4C3BC2-704C-4000-9845-59FADFFB7582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4C3BC2-704C-4000-9845-59FADFFB7582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4C3BC2-704C-4000-9845-59FADFFB7582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4C3BC2-704C-4000-9845-59FADFFB7582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FA2895-A6FC-41C8-9C15-0A90E1EFDCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FA2895-A6FC-41C8-9C15-0A90E1EFDCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FA2895-A6FC-41C8-9C15-0A90E1EFDCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FA2895-A6FC-41C8-9C15-0A90E1EFDCCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helper.dll": {}
+        }
+      },
       "Shapes-List/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "Helper/1.0.0": {
+      "type": "project",
+      "path": "../Helper/Helper.csproj",
+      "msbuildProject": "../Helper/Helper.csproj"
+    },
     "Shapes-List/1.0.0": {
       "type": "project",
       "path": "../Shapes-List/Shapes-List.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Helper >= 1.0.0",
       "Shapes-List >= 1.0.0"
     ]
   },
@@ -53,6 +69,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\rimpy\\source\\repos\\cSharp\\Helper\\Helper.csproj": {
+              "projectPath": "C:\\Users\\rimpy\\source\\repos\\cSharp\\Helper\\Helper.csproj"
+            },
             "C:\\Users\\rimpy\\source\\repos\\cSharp\\Shapes-List\\Shapes-List.csproj": {
               "projectPath": "C:\\Users\\rimpy\\source\\repos\\cSharp\\Shapes-List\\Shapes-List.csproj"
             }

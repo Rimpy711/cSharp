@@ -14,3 +14,5 @@ C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml
 C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.dll
 C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.pdb
 C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.genruntimeconfig.cache
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Helper.pdb
