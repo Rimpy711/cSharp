@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Shapes-Xml/1.0.0": {
+        "dependencies": {
+          "Shapes-List": "1.0.0"
+        },
+        "runtime": {
+          "Shapes-Xml.dll": {}
+        }
+      },
+      "Shapes-List/1.0.0": {
+        "runtime": {
+          "Shapes-List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shapes-Xml/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shapes-List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

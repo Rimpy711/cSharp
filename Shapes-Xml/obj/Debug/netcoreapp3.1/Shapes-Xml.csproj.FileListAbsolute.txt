@@ -1,0 +1,16 @@
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Shapes-Xml.exe
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Shapes-Xml.deps.json
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Shapes-Xml.runtimeconfig.json
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Shapes-Xml.runtimeconfig.dev.json
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Shapes-Xml.dll
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Shapes-Xml.pdb
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Shapes-List.dll
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\bin\Debug\netcoreapp3.1\Shapes-List.pdb
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.csprojAssemblyReference.cache
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.AssemblyInfoInputs.cache
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.AssemblyInfo.cs
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.csproj.CoreCompileInputs.cache
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.csproj.CopyComplete
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.dll
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.pdb
+C:\Users\rimpy\source\repos\cSharp\Shapes-Xml\obj\Debug\netcoreapp3.1\Shapes-Xml.genruntimeconfig.cache

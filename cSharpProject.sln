@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegexProject", "RegexProject\RegexProject.csproj", "{3F637A4F-C6A5-4380-BE7C-6D296946E9D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersToWords", "NumbersToWords\NumbersToWords.csproj", "{82105D83-88BC-43AF-AEA0-C6E480F4D472}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersToWords", "NumbersToWords\NumbersToWords.csproj", "{82105D83-88BC-43AF-AEA0-C6E480F4D472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes-List", "Shapes-List\Shapes-List.csproj", "{9874E738-02A8-4863-9760-E6581E5F1EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes-Xml", "Shapes-Xml\Shapes-Xml.csproj", "{87ED5B62-F2D6-46C0-99FB-7B958202CE01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{82105D83-88BC-43AF-AEA0-C6E480F4D472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82105D83-88BC-43AF-AEA0-C6E480F4D472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82105D83-88BC-43AF-AEA0-C6E480F4D472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9874E738-02A8-4863-9760-E6581E5F1EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9874E738-02A8-4863-9760-E6581E5F1EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9874E738-02A8-4863-9760-E6581E5F1EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9874E738-02A8-4863-9760-E6581E5F1EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87ED5B62-F2D6-46C0-99FB-7B958202CE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ED5B62-F2D6-46C0-99FB-7B958202CE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ED5B62-F2D6-46C0-99FB-7B958202CE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87ED5B62-F2D6-46C0-99FB-7B958202CE01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
